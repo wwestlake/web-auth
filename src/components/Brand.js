@@ -1,6 +1,6 @@
 import { Container } from 'react-bootstrap';
 import Navbar from 'react-bootstrap/Navbar';
-import lagdaemon from './lagdaemon.jpg'
+import lagdaemon from '../lagdaemon.jpg'
 
 const Brand = () => {
   return (
